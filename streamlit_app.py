@@ -8,3 +8,4 @@ streamlit.text('🥑🍞 Avocado Toast')
 
 
 streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
+streamlit.dataframe(my_fruit_list)
